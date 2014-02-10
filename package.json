@@ -10,6 +10,7 @@
         "type": "git",
         "url": "git@github.com:kof/animationFrame.git"
     },
+    "main": "./AnimationFrame.js",
     "keywords": [
         "animationFrame",
         "RAF",
